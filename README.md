@@ -1,6 +1,7 @@
 # Wildlife-Detection-Using-Binary-Classification
 
 Table of Contents
+
 Overview
 Problem Statement
 Dataset Information
